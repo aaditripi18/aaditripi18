@@ -1,6 +1,6 @@
 ## Hi, I'm Aaditya Tripathi
 
-Final-year student at **Vellore Institute of Technology (VIT), Vellore** · Software engineer working across **machine learning, security and full-stack development**.
+Final-year student at **Vellore Institute of Technology (VIT), Vellore** · Software engineer building **machine learning systems**, **security tools** and **full-stack applications**.
 
 I enjoy building complete systems, from the data pipeline and model to the backend API and the interface people use. I work across **Python, Java, C, C++ and TypeScript**.
 
@@ -19,6 +19,8 @@ Many of my projects start from a question that usually goes unchecked: *Is this 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
@@ -38,7 +40,8 @@ Many of my projects start from a question that usually goes unchecked: *Is this 
 | **Security** | Threat detection · MITRE ATT&CK · Sysmon · Sigma rules · membership-inference attacks · model supply-chain security · dataset auditing |
 | **Backend** | FastAPI · Node.js · Express · REST APIs · WebSockets · MongoDB · SQLite · Convex |
 | **Frontend** | React · Next.js · Tailwind CSS · Vite · Streamlit · data visualisation |
-| **Engineering** | Git and GitHub · automated tests · CI · Vercel deployment · Kaggle GPU pipelines · reproducible experiments |
+| **Cloud and DevOps** | Docker · AWS (EC2) · Vercel · CI with GitHub Actions · Kaggle GPU pipelines |
+| **Engineering** | Git and GitHub · automated tests · end-to-end ML pipelines · reproducible experiments |
 
 ### How I work
 
