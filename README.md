@@ -20,20 +20,12 @@ Many of my projects start from a question people usually take on trust: *Is this
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-### Featured work
+### Highlights
 
-| Project | What it finds | Try it |
-|---|---|---|
-| [**SOC APT Attribution**](https://github.com/aaditripi18/soc-apt-attribution-platform) | Names the threat group behind an attack only on evidence specific to that group, and explains every MITRE ATT&CK technique it counts. Tested on 105 unseen public attack recordings with no wrong attribution. | [Live demo](https://soc-apt-attribution.vercel.app) |
-| [**Stowaway**](https://github.com/aaditripi18/Stowaway) | Finds data hidden inside AI model files: payloads in the weights, unaccounted bytes, unsafe pickle code. 39 popular models surveyed. | [Live demo](https://stowaway-jade.vercel.app) |
-| [**leakcheck**](https://github.com/aaditripi18/leakcheck) | Finds train/test leakage in security ML datasets and measures how much reported accuracy it inflates. 8 benchmarks audited. | [Live demo](https://leakcheck-nu.vercel.app) |
-| [**CPES**](https://github.com/aaditripi18/CPES) | Finds which Windows process gained privilege, and how, from Sysmon process trees, with an explained score for every alert. Tested on 53 public attack captures and against 850 SigmaHQ rules. | Local dashboard |
-| [**Trustworthy Federated Unlearning**](https://github.com/aaditripi18/Trustworthy-Federated-Unlearning) | Keeps a chest X-ray Vision Transformer's explanations stable when a hospital's data is unlearned from a federated model. Evaluated on NIH ChestX-ray14 with three explainers, radiologist boxes and a membership-inference audit. | Local dashboard |
-
-### Hackathons
-
-- 🥉 **3rd place, AI Hackathon at the India AI Impact Summit 2026**: [Rare-Disease Protein Impact Explorer](https://github.com/aaditripi18/Rare-Disease-Protein-Impact-Explorer) maps AlphaMissense variant risk onto AlphaFold structures and finds 3D mutation hotspots. Team of 4.
-- **Caterpillar hackathon 2026**: [Smart Operator Assistant](https://github.com/aaditripi18/caterpillar), an in-cab safety assistant for excavators and loaders with live alerts, 4 ML models and a voice co-pilot. Team of 4.
+- 🥉 **3rd place, AI Hackathon at the India AI Impact Summit 2026**, in a team of 4.
+- Competed in the **Caterpillar hackathon 2026**, building an in-cab safety assistant for heavy machinery in a team of 4.
+- Shipped **3 tools with live web demos** that anyone can try in the browser.
+- Tested my work on **real public data**: 39 AI models, 8 security benchmarks, 105 attack recordings and a 100,000-image medical dataset.
 
 ### What I work with
 
