@@ -1,9 +1,24 @@
 ## Hi, I'm Aaditya Tripathi
 
-Final-year student at **Vellore Institute of Technology (VIT), Vellore**.
+Final-year student at **Vellore Institute of Technology (VIT), Vellore** · Software engineer working across **machine learning, security and full-stack development**.
 
-I build tools at the intersection of **machine learning and security**, and I check every claim against real data.
-Most of my projects start from a question someone usually takes on trust: *Is this model file safe? Is this benchmark score real? Did the server actually forget my data?* Then they measure the answer on public data, with every number traceable to a log.
+I like building complete systems: the data pipeline, the model, the backend API and the interface people actually use. I work mainly in **Python, Java and TypeScript**, and I test what I build against real data instead of toy examples.
+
+Many of my projects start from a question people usually take on trust: *Is this model file safe? Is this benchmark score real? Did the server actually forget my data?* Each one measures the answer on public data, with every number traceable to a log.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
 ### Featured work
 
@@ -22,9 +37,14 @@ Most of my projects start from a question someone usually takes on trust: *Is th
 
 ### What I work with
 
-**ML:** PyTorch · scikit-learn · Vision Transformers · federated learning · machine unlearning · membership-inference attacks · explainability
-**Security:** threat detection · MITRE ATT&CK · Sysmon · Sigma rules · model supply-chain security · ML dataset auditing
-**Building:** Python · TypeScript · React · FastAPI · Streamlit · Kaggle GPU pipelines · reproducible experiment ledgers
+| Area | Tools and skills |
+|---|---|
+| **Languages** | Python · Java · TypeScript · JavaScript · SQL |
+| **Machine learning** | PyTorch · scikit-learn · pandas · NumPy · Vision Transformers · federated learning · machine unlearning · explainability · model evaluation |
+| **Security** | Threat detection · MITRE ATT&CK · Sysmon · Sigma rules · membership-inference attacks · model supply-chain security · dataset auditing |
+| **Backend** | FastAPI · Node.js · Express · REST APIs · WebSockets · MongoDB · SQLite · Convex |
+| **Frontend** | React · Next.js · Tailwind CSS · Vite · Streamlit · data visualisation |
+| **Engineering** | Git and GitHub · automated tests · CI · Vercel deployment · Kaggle GPU pipelines · reproducible experiments |
 
 ### How I work
 
