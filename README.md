@@ -15,12 +15,16 @@ Many of my projects start from a question that usually goes unchecked: *Is this 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
@@ -36,12 +40,12 @@ Many of my projects start from a question that usually goes unchecked: *Is this 
 | Area | Tools and skills |
 |---|---|
 | **Languages** | Python · Java · C · C++ · TypeScript · JavaScript · SQL |
-| **Machine learning** | PyTorch · scikit-learn · pandas · NumPy · Vision Transformers · federated learning · machine unlearning · explainability · model evaluation |
-| **Security** | Threat detection · MITRE ATT&CK · Sysmon · Sigma rules · membership-inference attacks · model supply-chain security · dataset auditing |
-| **Backend** | FastAPI · Node.js · Express · REST APIs · WebSockets · MongoDB · SQLite · Convex |
-| **Frontend** | React · Next.js · Tailwind CSS · Vite · Streamlit · data visualisation |
-| **Cloud and DevOps** | Docker · AWS (EC2) · Vercel · CI with GitHub Actions · Kaggle GPU pipelines |
-| **Engineering** | Git and GitHub · automated tests · end-to-end ML pipelines · reproducible experiments |
+| **Machine learning** | PyTorch · torchvision · timm · Flower (federated learning) · scikit-learn · pandas · NumPy · SciPy · Matplotlib · Vision Transformers · machine unlearning · explainability (attention rollout, Grad-CAM) · model evaluation |
+| **Security** | Threat detection · MITRE ATT&CK · Sysmon and Windows event logs · Sigma rules (pySigma) · Elasticsearch and Kibana · membership-inference attacks · model file formats (pickle, safetensors, GGUF, ONNX) · dataset auditing |
+| **Backend** | FastAPI · Node.js · Express · REST APIs · WebSockets · Elasticsearch · MongoDB · SQLite · Convex |
+| **Frontend** | React · TypeScript · Next.js · React Router · React Flow · Tailwind CSS · Vite · Pyodide (Python in the browser) · Streamlit |
+| **Cloud and DevOps** | Docker and Docker Compose · AWS (EC2) · GitHub Actions CI · Vercel · Kaggle GPU pipelines |
+| **Quality** | pytest · Vitest · Ruff · mypy (strict) · Git and GitHub · reproducible experiment ledgers |
 
 ### How I work
 
