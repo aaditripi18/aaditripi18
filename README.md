@@ -1,5 +1,7 @@
 ## Hi, I'm Aaditya Tripathi
 
+Final-year student at **Vellore Institute of Technology (VIT), Vellore**.
+
 I build tools at the intersection of **machine learning and security**, and I check every claim against real data.
 Most of my projects start from a question someone usually takes on trust: *Is this model file safe? Is this benchmark score real? Did the server actually forget my data?* Then they measure the answer on public data, with every number traceable to a log.
 
@@ -32,4 +34,4 @@ Most of my projects start from a question someone usually takes on trust: *Is th
 
 ### Contact
 
-📧 aaditripi@gmail.com
+📧 aaditripi@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/aaditya-tripathi-35b7573a4)
